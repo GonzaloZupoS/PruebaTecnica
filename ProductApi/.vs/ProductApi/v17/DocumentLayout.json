@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|d:\\trabajo\\pruebatecnica\\productapi\\productapi\\migrations\\20260607064244_adduserauditfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C1FC6B-7DDF-4E33-B878-242D5AFD6078}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\migrations\\20260607064244_adduserauditfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Services\\AuthService.cs",
+              "RelativeToolTip": "ProductApi\\Services\\AuthService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowD0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T06:29:07.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T05:06:27.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Models\\User.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Models\\User.cs",
+              "RelativeToolTip": "ProductApi\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T02:29:25.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Program.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeToolTip": "ProductApi\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAIMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T02:31:59.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "ProductApi\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "ProductApi\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T02:39:22.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\DTOs\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "ProductApi\\DTOs\\ProductUpdateDto.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\DTOs\\ProductUpdateDto.cs",
+              "RelativeToolTip": "ProductApi\\DTOs\\ProductUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T02:45:06.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductApi\\Services\\ProductService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAA9wDUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T05:03:18.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductResponseDto.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\DTOs\\ProductResponseDto.cs",
+              "RelativeDocumentMoniker": "ProductApi\\DTOs\\ProductResponseDto.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\DTOs\\ProductResponseDto.cs",
+              "RelativeToolTip": "ProductApi\\DTOs\\ProductResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T02:46:16.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T06:32:08.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ProductApi\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "ProductApi\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T06:30:52.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260607064244_AddUserAuditFields.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Migrations\\20260607064244_AddUserAuditFields.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Migrations\\20260607064244_AddUserAuditFields.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Migrations\\20260607064244_AddUserAuditFields.cs",
+              "RelativeToolTip": "ProductApi\\Migrations\\20260607064244_AddUserAuditFields.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T06:42:45.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Data\\DbSeeder.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "ProductApi\\Data\\DbSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T07:21:22.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApi\\appsettings.json",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\appsettings.json",
+              "RelativeToolTip": "ProductApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T02:31:08.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T02:30:32.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Models\\Product.cs",
+              "ToolTip": "D:\\Trabajo\\PruebaTecnica\\ProductApi\\ProductApi\\Models\\Product.cs",
+              "RelativeToolTip": "ProductApi\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T02:19:58.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
