@@ -1,0 +1,73 @@
+<div class="create-container">
+
+  <div class="create-card">
+
+    <h2>
+      {{ isEditMode ? 'Editar producto' : 'Crear producto' }}
+    </h2>
+
+    <form [formGroup]="form" (ngSubmit)="onSubmit()">
+
+      <!-- NAME -->
+      <div class="form-group">
+        <label>Nombre</label>
+        <input type="text" formControlName="name" [disabled]="loading" />
+
+        <small *ngIf="f.name.touched && f.name.invalid">
+          Nombre inválido
+        </small>
+      </div>
+
+      <!-- DESCRIPTION -->
+      <div class="form-group">
+        <label>Descripción</label>
+        <input type="text" formControlName="description" [disabled]="loading" />
+
+        <small *ngIf="f.description.touched && f.description.invalid">
+          Descripción inválida
+        </small>
+      </div>
+
+      <!-- PRICE -->
+      <div class="form-group">
+        <label>Precio</label>
+        <input type="number" formControlName="price" [disabled]="loading" />
+
+        <small *ngIf="f.price.touched && f.price.invalid">
+          Precio inválido
+        </small>
+      </div>
+
+      <!-- STOCK -->
+      <div class="form-group">
+        <label>Stock</label>
+        <input type="number" formControlName="stock" [disabled]="loading" />
+
+        <small *ngIf="f.stock.touched && f.stock.invalid">
+          Stock inválido
+        </small>
+      </div>
+
+      <!-- ERROR -->
+      <div class="error-box" *ngIf="errorMessage">
+        {{ errorMessage }}
+      </div>
+
+      <!-- BUTTON -->
+      <button type="submit" [disabled]="loading || form.invalid">
+
+        <span *ngIf="!loading">
+          {{ isEditMode ? 'Actualizar' : 'Crear' }}
+        </span>
+
+        <span *ngIf="loading">
+          Guardando...
+        </span>
+
+      </button>
+
+    </form>
+
+  </div>
+
+</div>

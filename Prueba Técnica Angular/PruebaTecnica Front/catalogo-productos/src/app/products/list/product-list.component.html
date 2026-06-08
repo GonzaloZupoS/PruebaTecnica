@@ -1,0 +1,91 @@
+<div class="container">
+
+  <h2>Productos</h2>
+
+  <!-- BUSCADOR -->
+  <div class="search-box">
+    <input
+      type="text"
+      placeholder="Buscar producto..."
+      [(ngModel)]="searchTerm"
+      (input)="onSearch()"
+    />
+  </div>
+
+  <!-- ERROR -->
+  <div class="error" *ngIf="errorMessage">
+    {{ errorMessage }}
+  </div>
+
+  <!-- CREAR -->
+  <div class="actions">
+    <button routerLink="/products/create">
+      + Nuevo producto
+    </button>
+  </div>
+
+  <!-- EMPTY -->
+  <div *ngIf="paginatedProducts.length === 0">
+    No hay productos
+  </div>
+
+  <!-- TABLE -->
+  <table *ngIf="paginatedProducts.length > 0">
+
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Nombre</th>
+        <th>Descripción</th>
+        <th>Precio</th>
+        <th>Stock</th>
+        <th>Acciones</th>
+      </tr>
+    </thead>
+
+    <tbody>
+
+      <tr *ngFor="let product of paginatedProducts">
+
+        <td>{{ product.id }}</td>
+        <td>{{ product.name }}</td>
+        <td>{{ product.description }}</td>
+        <td>{{ product.price }}</td>
+        <td>{{ product.stock }}</td>
+
+        <!-- ACCIONES (SIEMPRE VISIBLES) -->
+        <td>
+
+          <button class="edit-btn"
+                  [routerLink]="['/products/edit', product.id]">
+            ✏️ Editar
+          </button>
+
+          <button class="delete-btn"
+                  (click)="deleteProduct(product.id)">
+            🗑 Eliminar
+          </button>
+
+        </td>
+
+      </tr>
+
+    </tbody>
+
+  </table>
+
+  <!-- PAGINATION -->
+  <div class="pagination" *ngIf="totalPages > 1">
+
+    <button
+      *ngFor="let page of [].constructor(totalPages); let i = index"
+      (click)="changePage(i + 1)"
+      [class.active]="currentPage === i + 1">
+
+      {{ i + 1 }}
+
+    </button>
+
+  </div>
+
+</div>
